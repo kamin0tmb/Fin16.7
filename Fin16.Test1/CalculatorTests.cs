@@ -6,13 +6,7 @@ using Fin16.Prog;
 
 namespace Fin16.Test
 {
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            
-        }
-    }
+    
     [TestFixture]
     public class CalculatorTests
     {

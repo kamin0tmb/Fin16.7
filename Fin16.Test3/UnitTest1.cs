@@ -11,7 +11,6 @@ namespace Fin16.Test3
 
             Assert.AreEqual(6, calculator.Additional(2, 4));
         }
-
         [Test]
         public void SubtractionMustReturnCorrectValue()
         {
@@ -19,7 +18,6 @@ namespace Fin16.Test3
 
             Assert.That(calculator.Subtraction(7, 2) == 5);
         }
-
         [Test]
         public void MiltiplicationMustReturnCorrectValue()
         {
@@ -27,7 +25,6 @@ namespace Fin16.Test3
 
             Assert.AreEqual(6, calculator.Miltiplication(2, 3));
         }
-
         [Test]
         public void DivisionByZero()
         {

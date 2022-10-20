@@ -4,11 +4,6 @@ namespace Fin16.Test3
 {
     public class Tests
     {
-        [SetUp]
-        public void Setup()
-        {
-        }
-
         [Test]
         public void AdditionalMustReturnCorrectValue()
         {

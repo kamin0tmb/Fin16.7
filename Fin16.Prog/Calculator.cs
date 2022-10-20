@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Fin16.Prog
 {
-    public class Calculator1
+    public class Calculator
     {
         public int Additional(int a, int b)
         {
